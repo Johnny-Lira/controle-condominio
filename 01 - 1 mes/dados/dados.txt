@@ -1,0 +1,38 @@
+Balancete Analítico
+01 de fevereiro de 2025 até 28 de fevereiro de 2025
+02/2025
+GRUPO SALDO
+SALDO ANTERIOR
+CRÉDITOS
+DÉBITOS
+SALDO ATUAL
+Condomínio
+R$ 10.423,70
+R$ 37.992,27
+R$ 50.243,36
+R$ -1.827,39
+Fundo de Reserva
+R$ -3.054,64
+R$ 0,00
+R$ 0,00
+R$ -3.054,64
+Fundo de Obras
+R$ 1.654,67
+R$ 133,34
+R$ 0,00
+R$ 1.788,01
+Retenção de Tributos e Impost
+R$ 1.047,77
+R$ 133,15
+R$ 0,00
+R$ 1.180,92
+Conta Op - 13 Salario com Encargos
+R$ 10.482,11
+R$ 1.917,86
+R$ 0,00
+R$ 12.399,97
+Total
+R$ 20.553,61
+R$ 40.176,62
+R$ 50.243,36
+R$ 10.486,87

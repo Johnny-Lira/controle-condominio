@@ -1,0 +1,116 @@
+Balancete Analítico
+01 de fevereiro de 2025 até 28 de fevereiro de 2025
+02/2025
+GRUPO SALDO
+SALDO ANTERIOR
+CRÉDITOS
+DÉBITOS
+SALDO ATUAL
+Condomínio
+R$ 10.423,70
+R$ 37.992,27
+R$ 50.243,36
+R$ -1.827,39
+Fundo de Reserva
+R$ -3.054,64
+R$ 0,00
+R$ 0,00
+R$ -3.054,64
+Fundo de Obras
+R$ 1.654,67
+R$ 133,34
+R$ 0,00
+R$ 1.788,01
+Retenção de Tributos e Impost
+R$ 1.047,77
+R$ 133,15
+R$ 0,00
+R$ 1.180,92
+Conta Op - 13 Salario com Encargos
+R$ 10.482,11
+R$ 1.917,86
+R$ 0,00
+R$ 12.399,97
+Total
+R$ 20.553,61
+R$ 40.176,62
+R$ 50.243,36
+R$ 10.486,87
+
+Balancete Analítico
+01 de março de 2025 até 31 de março de 2025
+03/2025
+GRUPO SALDO
+SALDO ANTERIOR
+CRÉDITOS
+DÉBITOS
+SALDO ATUAL
+Condomínio
+R$ -1.827,39
+R$ 32.520,09
+R$ 35.783,33
+R$ -5.090,63
+Fundo de Reserva
+R$ -3.054,64
+R$ 0,00
+R$ 0,00
+R$ -3.054,64
+Fundo de Obras
+R$ 1.788,01
+R$ 168,44
+R$ 0,00
+R$ 1.956,45
+Retenção de Tributos e Impost
+R$ 1.180,92
+R$ 180,96
+R$ 0,00
+R$ 1.361,88
+Conta Op - 13 Salario com Encargos
+R$ 12.399,97
+R$ 1.015,72
+R$ 0,00
+R$ 13.415,69
+Total
+R$ 10.486,87
+R$ 33.885,21
+R$ 35.783,33
+R$ 8.588,75
+
+Balancete Analítico
+01 de abril de 2025 até 30 de abril de 2025
+04/2025
+GRUPO SALDO
+SALDO ANTERIOR
+CRÉDITOS
+DÉBITOS
+SALDO ATUAL
+Condomínio
+R$ -5.090,63
+R$ 34.272,90
+R$ 29.040,64
+R$ 141,63
+Fundo de Reserva
+R$ -3.054,64
+R$ 0,00
+R$ 0,00
+R$ -3.054,64
+Fundo de Obras
+R$ 1.956,45
+R$ 84,22
+R$ 0,00
+R$ 2.040,67
+Retenção de Tributos e Impost
+R$ 1.361,88
+R$ 133,62
+R$ 0,00
+R$ 1.495,50
+Conta Op - 13 Salario com Encargos
+R$ 13.415,69
+R$ 1.092,86
+R$ 0,00
+R$ 14.508,55
+Total
+R$ 8.588,75
+R$ 35.583,60
+R$ 29.040,64
+R$ 15.131,71
